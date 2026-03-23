@@ -59,7 +59,18 @@ p a {
 	overflow: hidden;
 	width: auto;
 }
-
+#shift {
+	float:none;
+	padding-left: 215px ;
+}
+#shiftt{
+	float:none;
+	padding-left:150px;
+}
+#head{
+	float:none;
+	padding-top: 0px;
+}
 #header div div div div a {
 	border-right: 1px solid #6c404f;
 	color: #6c404f;
